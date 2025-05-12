@@ -1,7 +1,0 @@
-Another file
-<<<<<<< Updated upstream
-hello1
-=======
-hello
-hi
->>>>>>> Stashed changes
